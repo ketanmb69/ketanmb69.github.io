@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ketanbadhe.github.io/sitemap/sitemap-index.xml
+Sitemap: https://ketanbadhe.github.io/sitemap-index.xml
 Host: https://ketanbadhe.github.io
